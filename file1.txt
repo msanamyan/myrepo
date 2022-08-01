@@ -4,7 +4,6 @@ test2
 12345
 
 789.
-Я так сказала
-вчера
 new line 3
 new branch line
+new line for gui
